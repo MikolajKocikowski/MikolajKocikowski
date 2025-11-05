@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Mikołaj, I do computational biology and bioinformatics. 
+Please check out my [personal website](kocikowski.com) to find out more!
+Currently building NGS analysis tools for COVID research and working on network biology approaches to cancer immunotherapy.
+Always open to collaboration :)
