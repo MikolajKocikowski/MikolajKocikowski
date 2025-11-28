@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm Mikołaj, I do computational biology and bioinformatics. 
 Check out my [personal website](https://kocikowski.com) to find out more!
-Currently building NGS analysis tools for COVID research and working on network biology approaches to cancer immunotherapy.
-Always open to collaboration :)
+Currently working on network biology approaches to cancer immunotherapy and building NGS analysis tools for pandemic preparedness.
+Always open to collaboration.
